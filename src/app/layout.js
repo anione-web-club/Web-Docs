@@ -1,6 +1,7 @@
 import './layout.css'
 
 import Header from '@/components/Header/page'
+import Sidebar from '@/components/Sidebar/page'
 
 export default function RootLayout({ children }) {
   return (
@@ -8,6 +9,7 @@ export default function RootLayout({ children }) {
       <head />
       <body>
         <Header />
+        <Sidebar />
         {children}
       </body>
     </html>
