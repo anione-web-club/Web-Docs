@@ -9,7 +9,7 @@ export default function Header() {
     <>
       <header>
         <div className={style.headerContent}>
-          <Link className={`${style.title} ${style.noneDeco}`} href="/">HTML</Link>
+          <Link className={`${style.title} ${style.noneDeco}`} href="/">웹 프로그래밍 동아리</Link>
         </div>
       </header>
     </>
