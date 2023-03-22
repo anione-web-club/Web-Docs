@@ -6,6 +6,7 @@ export default function Sidebar() {
   return (
     <>
       <div className={style.sidebar}>
+        <h1 className={style.textCenter}>HTML</h1>
         <ul>
           <li><Link href="/">HTML 기초</Link></li>
           <li><Link href="/">HTML 기본 구조</Link></li>

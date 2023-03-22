@@ -11,6 +11,10 @@
   margin-top: 60px;
 }
 
+.textCenter {
+  text-align: center;
+}
+
 .sidebar ul {
   padding: 0;
 }
