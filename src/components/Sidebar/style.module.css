@@ -5,7 +5,28 @@
   width: 150px;
   height: 100%;
   background-color: white;
+  position: fixed;
   overflow-x: hidden;
   overflow-y: auto;
   margin-top: 60px;
+}
+
+.sidebar ul {
+  padding: 0;
+}
+
+.sidebar ul li {
+  text-align: center;
+  list-style: none;
+}
+
+.sidebar ul li a {
+  display: block;
+  height: 40px;
+  line-height: 40px;
+  font-size: 15px;
+  font-weight: 600;
+  border-bottom: 1px solid #e5e5e5;
+  color: #666;
+  text-decoration: none;
 }
