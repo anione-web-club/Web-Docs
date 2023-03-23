@@ -12,7 +12,7 @@ export default function Sidebar() {
           <li><Link href="/basic">HTML 기초</Link></li>
           <li><Link href="/basicStructure">HTML 기본 구조</Link></li>
           <li><Link href="/elementStructure">HTML 요소 구조</Link></li>
-          <li><Link href="/">HTML 텍스트 요소</Link></li>
+          <li><Link href="/textTag">HTML 텍스트 태그</Link></li>
           <li><Link href="/">HTML 기본 요소</Link></li>
           <li><Link href="/">HTML 리소스 요소</Link></li>
           <li><Link href="/">HTML 입력 요소</Link></li>
