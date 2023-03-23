@@ -1,0 +1,10 @@
+.content {
+  margin: 0;
+  margin-left: 170px;
+  padding: 60px 20px 20px 20px;
+}
+
+.text * {
+  line-height: 200%;
+  margin: 0;
+}
