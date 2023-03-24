@@ -9,19 +9,21 @@ export default function() {
         <div className={style.text}>
           <p>
             HTML 문서의 기본적인 구조는 다음과 같습니다 <br />
-            <fieldset>
-              <legend>예시</legend>
-              &lt;!DOCTYPE html&gt; <br />
-              &lt;html&gt; <br />
-              &lt;head&gt; <br />
-              &nbsp; &lt;title&gt;HTML 기본 구조&lt;/title&gt; <br />
-              &lt;/head&gt; <br />
-              &lt;body&gt; <br />
-              &nbsp; &lt;h1&gt;HTML 기본 구조&lt;/h1&gt; <br />
-              &nbsp; &lt;p&gt;HTML 기본 구조에 대해 알아봅시다&lt;/p&gt; <br />
-              &lt;/body&gt; <br />
-              &lt;/html&gt; <br />
-            </fieldset>
+          </p>
+          <fieldset>
+            <legend>예시</legend>
+            &lt;!DOCTYPE html&gt; <br />
+            &lt;html&gt; <br />
+            &lt;head&gt; <br />
+            &nbsp; &lt;title&gt;HTML 기본 구조&lt;/title&gt; <br />
+            &lt;/head&gt; <br />
+            &lt;body&gt; <br />
+            &nbsp; &lt;h1&gt;HTML 기본 구조&lt;/h1&gt; <br />
+            &nbsp; &lt;p&gt;HTML 기본 구조에 대해 알아봅시다&lt;/p&gt; <br />
+            &lt;/body&gt; <br />
+            &lt;/html&gt; <br />
+          </fieldset>
+          <p>
             &lt;!DOCTYPE html&gt; : 현재 문서가 HTML5 문서임을 명시하는 태그 <br />
             &lt;html&gt; : HTML 문서의 범위를 담는 태그 <br />
             &lt;head&gt; : HTML 문서의 메타데이터(metadata)를 담는 태그 <br />
