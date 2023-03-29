@@ -10,8 +10,8 @@ export default function() {
         <h1>HTML 텍스트 태그</h1>
         <hr />
         <div className={style.text}>
-          <P />
           <HNum />
+          <P />
         </div>
       </div>
     </>
