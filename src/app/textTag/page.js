@@ -1,6 +1,7 @@
 import style from './style.module.css'
 
 import P from '@/components/tag/p'
+import HNum from '@/components/tag/hNum'
 
 export default function() {
   return (
@@ -10,6 +11,7 @@ export default function() {
         <hr />
         <div className={style.text}>
           <P />
+          <HNum />
         </div>
       </div>
     </>
