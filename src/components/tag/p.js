@@ -14,6 +14,12 @@ export default function() {
         &lt;p&gt;문단&lt;/p&gt; <br />
         &lt;p&gt;문단&lt;/p&gt; <br />
       </fieldset>
+      <fieldset>
+        <legend>출력</legend>
+        <p>문단</p>
+        <p>문단</p>
+        <p>문단</p>
+      </fieldset>
     </>
   )
 }
